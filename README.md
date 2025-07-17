@@ -75,26 +75,11 @@
 - Facade
 
 </details>
-<br>
-<br>
-
-#### 6. 아래 설명에 알맞은 디자인 패턴은?
-```Markdown
-- 서브 시스템의 가장 앞쪽에 위치한다.
-- 서브 시스템에 있는 객체들을 사용할 수 있도록 인터페이스 역할을 수행
-- 서브 클래스들 사이의 통합 인터페이스를 제공하는 Wrapper 객체가 필요
-```
-<details>
-<summary>정답 보기</summary>
-
-- Facade
-
-</details>
 
 <br>
 <br>
 
-#### 7. 응용 프로그램 개발 시, 운영체제나 프로그래밍 언어 등에 있는 라이브러리를 이용할 수 있도록 규칙 등을 정의해놓은 인터페이스는?
+#### 6. 응용 프로그램 개발 시, 운영체제나 프로그래밍 언어 등에 있는 라이브러리를 이용할 수 있도록 규칙 등을 정의해놓은 인터페이스는?
 
 <details>
 <summary>정답 보기</summary>
@@ -107,7 +92,7 @@
 <br>
 <br>
 
-#### 8. 데이터베이스의 '스키마'에 대한 설명이다. 설명이 올바른 것을 짝지어 고르시오.
+#### 7. 데이터베이스의 '스키마'에 대한 설명이다. 설명이 올바른 것을 짝지어 고르시오.
 #### <보기>
 <img src="./image/image03.png" width="300">
 
@@ -128,7 +113,7 @@
 <br>
 <br>
 
-#### 9. 다음은 보안 공격에 대한 설명이다. 설명에 올바른 것을 각각 고르시오.
+#### 8. 다음은 보안 공격에 대한 설명이다. 설명에 올바른 것을 각각 고르시오.
 #### <보기>
 <img src="./image/image05.png" width="300">
 
@@ -149,7 +134,7 @@
 <br>
 <br>
 
-#### 10. 다음 트리 사진을 보고 물음에 답하시오.
+#### 9. 다음 트리 사진을 보고 물음에 답하시오.
 #### <트리>
 <img src="./image/image04.png" width="400">
 
@@ -169,3 +154,157 @@
 - 4. D-E-H-I-F-B-G-C-A
 
 </details>
+
+<br>
+<br>
+
+#### 10. 아래는 모듈의 응집도(Cohesion)에 대한 설명이다. 보기에서 설명에 올바른 것을 짝지어 고르시오.
+#### <보기>
+
+<img src="./image/image06.png" width="500">
+
+```Markdown
+ⓐ. 유사한 성격, 특정형태로 분류되는 처리요소들이 한모듈에서 처리되는 경우의 응집도
+
+ⓑ. 동일한 입출력을 사용하여 다른기능을 수행하는 활동들이 모여있을 경우의 응집도
+
+ⓒ. 모듈이 다수의 관련기능을 가질 때 모듈안의 구성요소들이 그 기능을 순차적으로 수행할 경우의 응집도
+```
+<details>
+<summary>정답 보기</summary>
+
+- ⓐ. ㄴ
+- ⓑ. ㅁ
+- ⓒ. ㄹ
+
+</details>
+<br>
+<br>
+
+#### 11. 빅데이터의 V3
+#### <보기>
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 12. 관계대수
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 13. 프로토콜
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 14. bad code - 스파게티 코드, 외계인 코드
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 15. 스케줄링
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 16. crontab 명령어 작성법
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 17. 보안 솔루션
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 18. 네트워크 관련 신기술
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 19. 병행 제어 기법
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
+<br>
+<br>
+
+#### 20. sw / hw / db 관련 신기술
+
+
+<details>
+<summary>정답 보기</summary>
+
+
+
+</details>
+
